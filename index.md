@@ -11,6 +11,10 @@ cover-img: /assets/img/공급망.png
 
 **Jihoon Son** is a **_researcher_** of Incheon National University, Department of Industrial and Management Engineering Innovative Production and Supply Chain Research(IPSCM) Lab [IPSCM](https://sites.google.com/view/ipscmlab). He conduct various studies to improve various operational issues and inefficient supply chains in the manufacturing industry.
 
+## Research interest
+**Shceduling**, **Supply chain management**, **Metaheuristic**, **Optimization**
+
+
 ## Contact
 
 ```
