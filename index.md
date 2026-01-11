@@ -2,7 +2,7 @@
 layout: page
 title: Industrial Engineering research student
 subtitle: Incheon National University Department of Industrial and Management Engineering
-cover-img: /assets/img/1361263_4003_2021.png
+cover-img: /assets/img/1361263_4003_2021.jpg
 ---
 
 <br/>
