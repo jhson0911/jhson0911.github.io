@@ -14,9 +14,10 @@ author: Jihoon Son
 navbar-links:
   Career: "career"
   Publication: "publication"
-  Blog: "blog"
+# Blog: "blog"
   Project: "project"
   GitHub: "https://github.com/jhson0911"
+# Google Scholar: "https://scholar.google.com/citations?user=cat-taesik"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -59,10 +60,10 @@ social-network-links:
 # [수정필요] 연락을 위한 타 사이트 정보 활성화 여부 지정 (필요 없는 경우 주석 처리)
 # --- General options --- #
 # Select which social network share links to show in posts
-share-links-active:
+# share-links-active:
 #  twitter: true
-  facebook: true
-  linkedin: true
+#  facebook: true
+#  linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
