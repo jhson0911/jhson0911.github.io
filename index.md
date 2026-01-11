@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cloud Researcher
+title: Industrial Engineering undergraduate research student
 subtitle: Incheon National University Department of Industrial and Management Engineering
 cover-img: /assets/img/공급망.png
 ---
