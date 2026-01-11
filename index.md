@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Incheon National University
+title: Incheon National University Department of Industrial and Management Engineering
 subtitle: Innovative Production and Supply Chain Research(IPSCM) Lab
 cover-img: /assets/img/공급망.jpg
 ---
