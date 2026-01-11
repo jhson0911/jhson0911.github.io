@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Inu
+title: Incheon National University
 subtitle: Innovative Production and Supply Chain Research(IPSCM) Lab
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/공급망.jpg
 ---
 
 <br/>
